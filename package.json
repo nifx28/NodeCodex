@@ -1,0 +1,19 @@
+{
+  "name": "nodecodex",
+  "version": "1.0.0",
+  "description": "NodeCodex",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nifx28/NodeCodex.git"
+  },
+  "author": "Ellyn Riraille",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nifx28/NodeCodex/issues"
+  },
+  "homepage": "https://github.com/nifx28/NodeCodex#readme"
+}
